@@ -4,8 +4,6 @@ I designed some new keycaps for the
 [PocketType](https://mechboards.co.uk/shop/kits/pockettype/) tiny portable
 keyboard.
 
-They look like this:
-
 ![PocketType Glamour Shot](pockettype_keycaps.jpeg)
 
 ![Internal clips](pockettype_keycap_model.png)
