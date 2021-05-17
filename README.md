@@ -20,11 +20,11 @@ hobbiests) source file is included if you want to tweak them.
 There's an STL included, which is the same model as the Fusion source, so
 you can either load the STL directly into your slicer, or convert it yourself
 from Fusion. The model is provided upside-down to give the tops the best
-possible finish. However there's only a single key in the model so you may want
-to add multiple instances.
+possible finish, however there's only a single key in the model so you may want
+to add multiple instances if you want a whole set. Print a couple extra!
 
 They work fine with PrusaSlicer's default settings. The only change I'd
-recommend is setting the seam to "Back". This greatly improves the quality of
+recommend is setting the seam to "Back" as improves the quality of
 the corners and it's pretty easy to hide the seam.
 
 They're tuned for printing at 0.1-0.2mm, mainly because of the
@@ -32,8 +32,8 @@ internal clips being a little bit resolution-sensitive:
 
 ![Internal clips](pockettype_keycap_section.png)
 
-Personally I like print them on a textured plate with PETG to give them a nice
-texture.
+Personally I like to print them on a textured plate with PETG to give them a
+nice texture.
 
 ## Post Processing
 
