@@ -6,9 +6,9 @@ keyboard.
 
 They look like this:
 
-[PocketType Glamour Shot](pockettype_keycaps.jpeg)
+![PocketType Glamour Shot](pockettype_keycaps.jpeg)
 
-[Internal clips](pockettype_keycap_model.png)
+![Internal clips](pockettype_keycap_model.png)
 
 ## Modification
 
@@ -30,7 +30,7 @@ the corners and it's pretty easy to hide the seam.
 They're tuned for printing at 0.1-0.2mm, mainly because of the
 internal clips being a little bit resolution-sensitive:
 
-[Internal clips](pockettype_keycap_section.png)
+![Internal clips](pockettype_keycap_section.png)
 
 Personally I like print them on a textured plate with PETG to give them a nice
 texture.
