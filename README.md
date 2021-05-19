@@ -41,3 +41,11 @@ don't sit right on the switches then I'd recommend cleaning out any
 stringy bits or other 3D printing crud that's in there - the tolerances are
 fairly tight.
 
+## License
+
+You are free to share and adapt this project non-commercially, as long as you
+provide attribution:
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Feel free to contact me if you want to do something this license doesn't cover.
